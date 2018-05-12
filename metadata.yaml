@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32892'
     url: http://www.gutenberg.org/2009/agents/32892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27759#Luca-Signorelli
 gutenberg_issued: '2009-01-09'
 gutenberg_type: Text
 identifiers:
